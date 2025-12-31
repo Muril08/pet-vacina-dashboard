@@ -45,6 +45,3 @@ A pesquisa foi realizada por meio de entrevistas presenciais em residências sel
 - Leaflet
 - Jupyter Notebook
 - Google Sheets (organização inicial dos dados)
-
-## Estrutura do Projeto
-
