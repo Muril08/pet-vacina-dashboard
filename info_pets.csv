@@ -1,0 +1,72 @@
+id_pet,id_residencia,especie,vacinado,vacinas,origem_vacina
+1,1,Pássaro,Não,,
+2,1,Pássaro,Não,,
+3,1,Pássaro,Não,,
+4,3,Cachorro,Sim,Raiva (antirrábica),Campanha pública
+5,6,Cachorro,Sim,Não especificado (acompanhamento veterinário),Clínica veterinária
+6,9,Gato,Não,,
+7,9,Gato,Não,,
+8,12,Cachorro,Sim,Não soube informar,Campanha pública
+9,15,Gato,Sim,Raiva (antirrábica),Campanha pública
+10,15,Gato,Sim,Raiva (antirrábica),Campanha pública
+11,15,Cachorro,Sim,Raiva (antirrábica),Campanha pública
+12,16,Gato,Sim,Raiva (antirrábica),Campanha pública
+13,16,Gato,Sim,Raiva (antirrábica),Campanha pública
+14,16,Cachorro,Sim,Raiva (antirrábica),Campanha pública
+15,17,Gato,Sim,Não soube informar,Campanha pública
+16,19,Pássaro,Não,,
+17,19,Pássaro,Não,,
+18,21,Gato,Sim,Não soube informar,Clínica veterinária
+19,21,Gato,Não,,
+20,22,Gato,Sim,Não soube informar,Campanha pública
+21,22,Cachorro,Sim,Não soube informar,Clínica veterinária
+22,23,Cachorro,Sim,Não soube informar,Campanha pública
+23,23,Cachorro,Sim,Não soube informar,Campanha pública
+24,25,Gato,Sim,Não soube informar,Campanha pública
+25,25,Gato,Não,,
+26,25,Gato,Não,,
+27,25,Gato,Não,,
+28,25,Cachorro,Não,,
+29,26,Cachorro,Sim,Não especificado (acompanhamento veterinário),Clínica veterinária
+30,27,Gato,Sim,Não soube informar,Clínica veterinária
+31,29,Cachorro,Sim,Não especificado (acompanhamento veterinário),Clínica veterinária
+32,30,Cachorro,Sim,Raiva (antirrábica),Campanha pública
+33,31,Cachorro,Sim,Não especificado (acompanhamento veterinário),Clínica veterinária
+34,31,Cachorro,Sim,Não especificado (acompanhamento veterinário),Clínica veterinária
+35,32,Gato,Sim,Raiva (antirrábica),Campanha pública
+36,32,Gato,Sim,Não soube informar,Campanha pública
+37,32,Cachorro,Sim,Não soube informar,Campanha pública
+38,32,Cachorro,Sim,Não soube informar,Campanha pública
+39,33,Gato,Não,,
+40,33,Gato,Não,,
+41,34,Gato,Sim,Não soube informar,Campanha pública
+42,34,Gato,Sim,Não soube informar,Campanha pública
+43,34,Gato,Sim,Não soube informar,Campanha pública
+44,34,Gato,Sim,Não soube informar,Campanha pública
+45,34,Gato,Sim,Não soube informar,Campanha pública
+46,35,Cachorro,Sim,Não soube informar,Campanha pública
+47,37,Gato,Sim,Não soube informar,Campanha pública
+48,37,Gato,Sim,Não soube informar,Campanha pública
+49,37,Gato,Sim,Não soube informar,Campanha pública
+50,37,Cachorro,Sim,Não soube informar,Campanha pública
+51,37,Cachorro,Sim,Não soube informar,Campanha pública
+52,37,Cachorro,Sim,Não soube informar,Campanha pública
+53,38,Gato,Não,,
+54,38,Gato,Não,,
+55,40,Gato,Sim,Não soube informar,Campanha pública
+56,41,Cachorro,Sim,Não soube informar,Campanha pública
+57,42,Cachorro,Sim,Não especificado (acompanhamento veterinário),Clínica veterinária
+58,44,Gato,Não,,
+59,44,Gato,Não,,
+60,44,Cachorro,Não,,
+61,45,Cachorro,Sim,Não soube informar,Campanha pública
+62,48,Gato,Sim,Não soube informar,Campanha pública
+63,48,Gato,Sim,Não soube informar,Campanha pública
+64,49,Gato,Sim,Raiva (antirrábica),Campanha pública
+65,53,Gato,Sim,Não soube informar,Campanha pública
+66,54,Pássaro,Não,,
+67,55,Gato,Não,,
+68,55,Gato,Não,,
+69,56,Cachorro,Sim,Não soube informar,Campanha pública
+70,56,Cachorro,Sim,Não soube informar,Campanha pública
+71,56,Gato,Não,,

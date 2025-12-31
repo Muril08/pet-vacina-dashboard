@@ -1,0 +1,57 @@
+id_residencia,bairro,qtd_pessoas,possui_pet
+1,Centro,2,Sim
+2,Centro,3,Não
+3,Centro,2,Sim
+4,Centro,2,Não
+5,Centro,4,Não
+6,Centro,7,Sim
+7,Centro,2,Não
+8,Centro,2,Não
+9,Centro,5,Sim
+10,Centro,2,Não
+11,Centro,4,Não
+12,Centro,2,Sim
+13,Centro,3,Não
+14,Centro,3,Não
+15,Centro,2,Sim
+16,Centro,6,Sim
+17,Centro,1,Sim
+18,Centro,1,Não
+19,Centro,2,Sim
+20,Centro,2,Não
+21,Centro,2,Sim
+22,Centro,2,Sim
+23,Centro,4,Sim
+24,Centro,4,Não
+25,Centro,2,Sim
+26,Centro,4,Sim
+27,Centro,3,Sim
+28,Centro,2,Não
+29,Salgada,4,Sim
+30,Salgada,3,Sim
+31,Salgada,3,Sim
+32,Salgada,4,Sim
+33,Salgada,3,Sim
+34,Salgada,4,Sim
+35,Salgada,4,Sim
+36,Salgada,1,Não
+37,Salgada,4,Sim
+38,Santo Expedito,3,Sim
+39,Santo Expedito,2,Não
+40,Santo Expedito,5,Sim
+41,Santo Expedito,2,Sim
+42,Santo Expedito,7,Sim
+43,Santo Expedito,3,Não
+44,Santo Expedito,3,Sim
+45,Santo Expedito,3,Sim
+46,Santo Expedito,2,Não
+47,Santo Expedito,1,Não
+48,Santo Expedito,1,Sim
+49,Santo Expedito,3,Sim
+50,Santo Expedito,1,Não
+51,Santo Expedito,3,Não
+52,Santo Expedito,2,Não
+53,Santo Expedito,2,Sim
+54,Santo Expedito,2,Sim
+55,Santo Expedito,3,Sim
+56,Santo Expedito,6,Sim
