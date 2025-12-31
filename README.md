@@ -2,6 +2,18 @@
 Sistema de coleta, análise e visualização de dados sobre a posse de animais domésticos e sua situação vacinal no município de Venha-Ver/RN.
 O projeto utiliza dados primários coletados em bairros selecionados da cidade e apresenta os resultados por meio de análises exploratórias e gráficos, com foco em saúde pública e prevenção de zoonoses.
 
+## Principais Insights da Pesquisa
+- Situação Geral
+   - Apenas 67,6% dos pets estão vacinados no município.
+   - Ainda faltam 2,4 pontos percentuais para atingir a meta de 70% de imunidade coletiva, conforme referência da Organização Mundial da Saúde (OMS).
+- Comparação entre Bairros
+   - A diferença entre os dois bairros é de 38,3 pontos percentuais, evidenciando uma forte desigualdade na vacinação.
+   - O bairro Salgada apresenta o melhor desempenho, com 90,9% dos pets vacinados.
+   - Já Santo Expedito possui apenas 52,6% de cobertura vacinal.
+- Recomendação de Ação
+   - Priorizar ações em Santo Expedito, com campanhas de vacinação direcionadas.
+   - Estima-se que aproximadamente 9 pets ainda não foram vacinados nesse bairro, o que representa um risco sanitário local.
+   
 ## Objetivo do Projeto
 Coletar, organizar e analisar dados sobre:
 - Presença de animais domésticos nas residências
@@ -45,3 +57,5 @@ A pesquisa foi realizada por meio de entrevistas presenciais em residências sel
 - Leaflet
 - Jupyter Notebook
 - Google Sheets (organização inicial dos dados)
+
+## Os insights apresentados no dashboard têm como objetivo apoiar decisões estratégicas em políticas públicas de saúde animal, permitindo identificar áreas prioritárias para intervenção.
