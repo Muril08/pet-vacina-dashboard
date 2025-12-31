@@ -1,0 +1,136 @@
+body {
+    background-color: #118AB2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #118AB2;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+    border-radius: 8px;
+    z-index: 1;
+    background-color: #2c3e50;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #59cff7;
+    color: white;
+    border-radius: 10px 10px 0 0 !important;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #118AB2;
+    border-color: #118AB2;
+}
+
+.btn-primary:hover {
+    background-color: #0d6d8f;
+    border-color: #0d6d8f;
+}
+
+.btn-success {
+    background-color: #118AB2;
+    border-color: #118AB2;
+}
+
+.btn-success:hover {
+    background-color: #118AB2;
+    border-color: #118AB2;
+}
+
+#modal-bairro {
+    transition: all 0.3s ease;
+}
+
+.grafico-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 1px solid #ddd;
+}
+
+.tooltip-bairro {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 5px 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+.borda-destacada {
+    pointer-events: none;
+}
+
+@media (max-width: 768px) {
+    #map {
+        height: 400px;
+    }
+    
+    .col-md-8, .col-md-4 {
+        width: 100%;
+    }
+}
+
+.table {
+    font-size: 14px;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table-bordered td {
+    padding: 8px;
+}
+
+.text-center text-muted { color: #dee2e6;}
+
+.insight-card {
+    transition: transform 0.2s;
+    height: 100%;
+}
+
+.insight-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.insight-card h6 {
+    color: #2c3e50;
+    font-size: 14px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.insight-card p {
+    color: #43576b;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.badge {
+    font-size: 12px;
+    padding: 4px 8px;
+}
+
+.bairro-centro { fillColor: #cc4e2fff; }
+.bairro-salgada { fillColor: #ffa500; }
+.bairro-santo-expedito { fillColor: #006691; }

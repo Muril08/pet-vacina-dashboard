@@ -1,0 +1,44 @@
+{
+  "cidade": {
+    "total_casas": 56,
+    "casas_com_pets": 35,
+    "pessoas_afetadas": 115,
+    "total_pets": 71,
+    "percentual_vacinados": 67.6,
+    "especie_predominante": "Gato"
+  },
+  "bairros": {
+    "Centro": {
+      "casas": 28,
+      "casas_com_pets": 15,
+      "pessoas": 46,
+      "pets": 30,
+      "percentual_vacinados": 60.0,
+      "especie_predominante": "Gato"
+    },
+    "Salgada": {
+      "casas": 9,
+      "casas_com_pets": 8,
+      "pessoas": 29,
+      "pets": 22,
+      "percentual_vacinados": 90.9,
+      "especie_predominante": "Gato"
+    },
+    "Santo Expedito": {
+      "casas": 19,
+      "casas_com_pets": 12,
+      "pessoas": 40,
+      "pets": 19,
+      "percentual_vacinados": 52.6,
+      "especie_predominante": "Gato"
+    }
+  },
+  "graficos": {
+    "cidade": "grafico_comparativo_cidade.png",
+    "bairros": {
+      "Centro": "grafico_Centro.png",
+      "Salgada": "grafico_Salgada.png",
+      "Santo Expedito": "grafico_Santo_Expedito.png"
+    }
+  }
+}
